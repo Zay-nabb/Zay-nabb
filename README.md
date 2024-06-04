@@ -2,10 +2,10 @@
   -A passionate computer science student who love to learn about new technologies.
   
 ## 🛠 Skills
-  - Languages: Python, C, C++.
+  - Languages: Python, C, C++, java.
   - Frameworks: HTML, CSS.
 
-🌱 I’m currently learning Java.
+🌱 I’m currently learning Flutter.
 
 📫 How to reach me 
   - gmail : essamzynab@gmail.com.
