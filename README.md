@@ -2,8 +2,8 @@
   -A passionate computer science student who love to learn about new technologies.
   
 ## 🛠 Skills
-  - Languages: Python, C, C++, java.
-  - Frameworks: HTML, CSS.
+  - Languages: Python, C, C++, java, SQl.
+  - Frameworks: HTML, CSS, React, Supabase.
 
 🌱 I’m currently learning Flutter.
 
