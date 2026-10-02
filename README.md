@@ -1,5 +1,5 @@
 👋 Hi I’m @Zay-nabb, 
-  -A passionate computer science student who love to learn about new technologies.
+  -A passionate computer science Graduate who love to learn about new technologies.
   
 ## 🛠 Skills
   - Languages: Python, C, C++, java, SQl.
